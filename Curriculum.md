@@ -51,6 +51,7 @@
 15. **Handbook of Algorithms and Data Structures - in Pascal and C** - G. H. Gonnet and R. Baeza-Yates
 16. **Fundamentals of Data Structures in Pascal** - Ellis Horowitz and Sartaj Sahni
 17. **C++ Plus Data Structures** - Nell Dale
+18. **Data Structures And Algorithms Made Easy** - Narasimha Karumanchi
 
 ### Notes
 
